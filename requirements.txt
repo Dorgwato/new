@@ -1,0 +1,9 @@
+pip~=24.2
+attrs~=24.2.0
+distro~=1.9.0
+wheel~=0.45.1
+cryptography~=43.0.3
+pillow~=11.0.0
+filelock~=3.16.1
+config~=0.5.1
+aiogram~=3.6.0
